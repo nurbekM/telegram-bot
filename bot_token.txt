@@ -1,0 +1,5 @@
+5327781257:AAGFWr9V4XqtXAVSakiSppTBdAESTTrjMJ0
+
+For a description of the Bot API, see this page: https://core.telegram.org/bots/api
+
+t.me/find_a_HotelBot
